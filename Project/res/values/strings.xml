@@ -4,5 +4,8 @@
     <string name="app_name">Durkheim</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="Groceries">Groceries</string>
+    <string name="Chores">Chores</string>
+    <string name="Welcome">Welcome to Durkheim</string>
 
 </resources>
